@@ -8,8 +8,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc",
-    "toc": "markdown-toc -i readme.md"
+    "build": "tsc"
   },
   "keywords": [
     "puppeteer",
@@ -28,7 +27,6 @@
   "devDependencies": {
     "@types/node": "^12.6.9",
     "@types/puppeteer-core": "^1.9.0",
-    "markdown-toc": "^1.2.0",
     "typescript": "^3.6.3"
   }
 }
