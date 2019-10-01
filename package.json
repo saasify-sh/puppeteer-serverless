@@ -1,0 +1,34 @@
+{
+  "name": "puppeteer-serverless",
+  "private": true,
+  "version": "0.0.0",
+  "description": "puppeteer for serverless functions that works for dev",
+  "repository": "saasify-sh/puppeteer-serverless",
+  "author": "Saasify <dev@saasify.sh>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "toc": "markdown-toc -i readme.md"
+  },
+  "keywords": [
+    "puppeteer",
+    "chrome",
+    "chromium",
+    "headless",
+    "serverless",
+    "browserless",
+    "open source",
+    "lambda"
+  ],
+  "dependencies": {
+    "chrome-aws-lambda": "^1.19.0",
+    "puppeteer-core": "^1.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.9",
+    "@types/puppeteer-core": "^1.9.0",
+    "markdown-toc": "^1.2.0",
+    "typescript": "^3.6.3"
+  }
+}
