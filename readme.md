@@ -2,6 +2,12 @@
 
 > [puppeteer](https://pptr.dev) for both serverless functions and development
 
+<p align="center">
+  <a href="https://puppet-master.sh" title="Puppet Master">
+    <img src="https://raw.githubusercontent.com/saasify-sh/puppeteer-serverless/master/media/puppeteer-logo.png" alt="Puppeteer Logo" width="200" />
+  </a>
+</p>
+
 ## Install
 
 ```
