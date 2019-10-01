@@ -6,8 +6,12 @@
   "author": "Saasify <dev@saasify.sh>",
   "license": "MIT",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepublish": "npm run build"
   },
   "keywords": [
     "puppeteer",
