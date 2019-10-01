@@ -25,7 +25,7 @@ const browser = await puppeteer.launch();
 const page = await browser.newPage();
 ```
 
-If `NODE_ENV` is set to `development`, it will use your local install of chrome, located at:
+If `NODE_ENV` is set to `development`, it will use your local install of Chrome located at:
 
 - **MacOS**: `/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`
 - **win32**: `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe`
