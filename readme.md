@@ -8,6 +8,8 @@
   </a>
 </p>
 
+[![NPM](https://img.shields.io/npm/v/puppeteer-serverless.svg)](https://www.npmjs.com/package/puppeteer-serverless)
+
 ## Install
 
 ```
