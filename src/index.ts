@@ -6,6 +6,6 @@ export default {
   ...puppeteer,
   launch: async (opts: puppeteer.LaunchOptions) => {
     const serverlessOptions = await getLaunchOptions();
-    return puppeteer.launch({ ...opts, ...serverlessOptions });
+    return puppeteer.launch({ ...serverlessOptions, ...opts });
   }
 };
