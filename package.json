@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-serverless",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "puppeteer for serverless functions that works for dev",
   "repository": "saasify-sh/puppeteer-serverless",
   "author": "Saasify <dev@saasify.sh>",
