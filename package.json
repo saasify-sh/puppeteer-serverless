@@ -26,12 +26,12 @@
     "lambda"
   ],
   "dependencies": {
-    "chrome-aws-lambda": "^1.20.3",
-    "puppeteer-core": "^1.20.0"
+    "chrome-aws-lambda": "^2.0.2",
+    "puppeteer-core": "^2.0.0"
   },
   "devDependencies": {
     "@types/node": "^12.11.2",
-    "@types/puppeteer-core": "^1.9.0",
+    "@types/puppeteer-core": "^2.0.0",
     "typescript": "^3.6.4"
   }
 }
