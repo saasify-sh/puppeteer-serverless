@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-serverless",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Puppeteer for AWS Lambda that also works for local development.",
   "repository": "saasify-sh/puppeteer-serverless",
   "author": "Saasify <dev@saasify.sh>",
